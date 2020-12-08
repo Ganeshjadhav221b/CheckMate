@@ -1,0 +1,11 @@
+dealer should pull until max(17,client's hand)
+it becomes draw(push) when dealer's score matches client's
+player can chose when to stop
+player/dealer goes busted if hand >21
+when player goes busted, dealer wins autom. vv
+
+
+bankRoll  = (+/-)betsize
+player can play any matches untill his bankroll = 0
+
+player reaches stand if he choses not to pick further 
