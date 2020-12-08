@@ -1,6 +1,6 @@
 package constants
 
-class Card {
+class CardValue {
     companion object CardValue{
         var Ace: Int= 1
         val Two :Int= 2
