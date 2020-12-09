@@ -2,9 +2,7 @@ package theGame
 import constants.CardValue
 import constants.CardSuit
 import constants.Messages
-import theGame.Classes.Card
-import theGame.Classes.Deck
-import theGame.Classes.Game
+import theGame.Classes.*
 import theGame.Interfaces.IGame
 import theGame.Interfaces.IGameService
 

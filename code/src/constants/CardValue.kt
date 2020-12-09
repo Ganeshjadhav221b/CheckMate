@@ -2,7 +2,7 @@ package constants
 
 class CardValue {
     companion object CardValue{
-        var Ace: Int= 1
+        var Ace: Int= 11
         val Two :Int= 2
         val Three :Int = 3
         val Four :Int = 4

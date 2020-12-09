@@ -1,6 +1,6 @@
 package theGame.Classes
 
-class Card( val cardSuit:Int, val value: Int) {
+class Card( val cardSuit:Int, var value: Int) {
 
     fun getSuit(card:Int):String
     {

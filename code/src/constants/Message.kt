@@ -6,8 +6,8 @@ class Messages {
 
         val ShuffleDeck: String = "Hold tight, shuffling the decks for ya!"
         val DeckShuffled: String = "Deck's shuffled. Good to go..."
-
-        val Busted: String = "Uh! You're busted."
+        val playerDrawnCards:String = "Player has drawn:"
+        val Busted: String = " is busted."
         val Draw: String = "Its a draw."
         val Stand: String = "Woops! It's a checkmate."
 
